@@ -26,12 +26,13 @@ I have uploaded image for testing purpose in test_image folder in home directory
 11. six==1.11.0
 12. sklearn==0.0
 
-## GUI
+## UI
 Home Page:
-![Home page of a System]()
+![Home page of a System](https://github.com/dipbazz/Devanagari-numerals-recognition-using-KNN-and-integration-with-django/blob/master/devanagariDigitsOCR/test_image/UI/home%20page.JPG "Home Page")
 
-Home Page:
-![Home page of a system](https://github.com/dipbazz/Devnagari-numerals-recognition-using-KNN-and-integrated-to-django/tree/master/devanagariDigitsOCR/test_image/img.jpg "Logo Title Text 1")
+Output of a system:
+![Home page of a system](https://github.com/dipbazz/Devanagari-numerals-recognition-using-KNN-and-integration-with-django/blob/master/devanagariDigitsOCR/test_image/UI/browser_test.jpg "Output of a system for a given input")
+
 
 
 ## References
