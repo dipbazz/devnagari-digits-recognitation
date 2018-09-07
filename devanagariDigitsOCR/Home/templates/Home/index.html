@@ -1,0 +1,40 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Devnagari Digits OCR </title>
+
+    <link rel="stylesheet" href="{% static 'Home/style.css' %}">
+</head>
+<body>
+    <header>
+        <div class="heading-text">Devanagari Digits Recognition With KNN</div>
+    </header>
+    <div class="wrapper">
+
+        <div class="img-upload-area">
+            {% for d in data %}
+            <div class="img-container">
+                <img src="{{ d.imgFile.url }}" alt="image">
+            </div>
+            {% endfor %}
+            <form action="{% url 'index' %}" method="post" enctype="multipart/form-data">
+                {% csrf_token %}
+                {{ forms }}
+
+                <br><button>Upload</button>
+            </form>
+
+        </div>
+        {% if output %}
+        <div class="output-display-area">
+            output file
+            <img src="{% static 'Home/images/output.jpg' %}" alt="">
+        </div>
+        {% endif %}
+
+    </div>
+</body>
+</html>
