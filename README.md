@@ -5,7 +5,7 @@ Offline Nepali Handwritten Numerals recognition using K-Nearest Neighbour and in
 1. Clone the project in your directory.
 2. Create a virtual enviroment.
 3. Install all the requirements files using pip "pip install -r /path/to/requirements.txt".
-4. Download dataset from [here](https://www.google.com "Google's Homepage") and paste in the directory "devanagariDigitsOCR/Home/digits_detection_model"
+4. Download dataset from [here](https://www.kaggle.com/dipbazz/devanagari-numerals-datasets "Devanagari numerals dataset") and paste in the directory "devanagariDigitsOCR/Home/digits_detection_model"
 5. Execute traineer.py file loacted at "devanagariDigitsOCR/Home/digits_detection_model" (be sure to navigate to the same directory while Executing traineer.py to set cache.pkl file)
 6. runserver (python manage.py runserver)
 7. you are good to go, check any devanagari handwritten numerals in a system. 
