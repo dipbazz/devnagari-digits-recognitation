@@ -33,6 +33,9 @@ Home Page:
 Output of a system:
 ![Home page of a system](https://github.com/dipbazz/Devanagari-numerals-recognition-using-KNN-and-integration-with-django/blob/master/devanagariDigitsOCR/test_image/UI/browser_test.jpg "Output of a system for a given input")
 
+Output of a system:
+![Home page of a system](https://github.com/dipbazz/Devanagari-numerals-recognition-using-KNN-and-integration-with-django/blob/master/devanagariDigitsOCR/test_image/UI/browser_test1.jpg "Output of a system for a given input")
+
 
 
 ## References
