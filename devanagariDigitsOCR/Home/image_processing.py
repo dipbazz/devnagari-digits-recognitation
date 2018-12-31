@@ -37,6 +37,7 @@ def readImage(image_name):
         font = cv2.FONT_HERSHEY_SIMPLEX
         cv2.putText(copy_img, str(predicted_img), (x+10, y-10), font, 0.7, (0,0,255), 1, cv2.LINE_AA)
         predicted_digit.append(predicted_img)
+        
 
     BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     img_dir = os.path.join(BASE_DIR, 'Home\static\Home\images')

@@ -106,3 +106,12 @@ devenv/
 
 #pycharm IDE
 .idea
+
+# media folder
+media/
+
+# dataset
+*.csv
+
+# trained model
+model_cache/

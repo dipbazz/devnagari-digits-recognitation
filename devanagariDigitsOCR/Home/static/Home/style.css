@@ -61,3 +61,11 @@ button{
 .output-display-area>img{
     width: 100%;
 }
+.errorlist{
+    color: red;
+    font-size: 14pt;
+    padding: 10px;
+    list-style: none;
+    border: 1px solid;
+    margin: 20px 0;
+}

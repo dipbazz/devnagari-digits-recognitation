@@ -20,6 +20,9 @@ class Index(View):
             instance = form.save(commit=False)
             instance.save()
 
+        else:
+            return render(request, self.template_name, {'forms': form})
+
         data = OCRimage.objects.all()
 
         # function that returns the predicted digit value
