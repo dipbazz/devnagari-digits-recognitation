@@ -28,13 +28,13 @@ I have uploaded image for testing purpose in test_image folder in home directory
 
 ## UI
 Home Page:
-![Home page of a System](https://github.com/dipbazz/Devanagari-numerals-recognition-using-KNN-and-integration-with-django/blob/master/devanagariDigitsOCR/test_image/UI/home%20page.JPG "Home Page")
+![Home page of a System](https://gitlab.com/dipbazz/devnagari-digits-recognitation/tree/master/devanagariDigitsOCR/test_image/UI/home%20page.JPG "Home Page")
 
 Output of a system:
-![Home page of a system](https://github.com/dipbazz/Devanagari-numerals-recognition-using-KNN-and-integration-with-django/blob/master/devanagariDigitsOCR/test_image/UI/browser_test.jpg "Output of a system for a given input")
+![Home page of a system](https://gitlab.com/dipbazz/devnagari-digits-recognitation/tree/master/devanagariDigitsOCR/test_image/UI/browser_test.jpg "Output of a system for a given input")
 
 Output of a system:
-![Home page of a system](https://github.com/dipbazz/Devanagari-numerals-recognition-using-KNN-and-integration-with-django/blob/master/devanagariDigitsOCR/test_image/UI/browser_test1.jpg "Output of a system for a given input")
+![Home page of a system](https://gitlab.com/dipbazz/devnagari-digits-recognitation/tree/master/devanagariDigitsOCR/test_image/UI/browser_test1.jpg "Output of a system for a given input")
 
 
 
