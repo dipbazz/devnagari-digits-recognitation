@@ -5,7 +5,7 @@ Offline Nepali Handwritten Numerals recognition using K-Nearest Neighbour and in
 1. Clone the project in your directory.
 2. Create a virtual enviroment.
 3. Install all the requirements files using pip "pip install -r /path/to/requirements.txt".
-4. Download dataset from [here](https://www.google.com "Google's Homepage") and paste in the directory "devanagariDigitsOCR/Home/digits_detection_model"
+4. Download dataset from [here](https://www.kaggle.com/dipbazz/devanagari-numerals-datasets "Devanagari numerals dataset") and paste in the directory "devanagariDigitsOCR/Home/digits_detection_model"
 5. Execute traineer.py file loacted at "devanagariDigitsOCR/Home/digits_detection_model" (be sure to navigate to the same directory while Executing traineer.py to set cache.pkl file)
 6. runserver (python manage.py runserver)
 7. you are good to go, check any devanagari handwritten numerals in a system. 
@@ -26,12 +26,16 @@ I have uploaded image for testing purpose in test_image folder in home directory
 11. six==1.11.0
 12. sklearn==0.0
 
-## GUI
+## UI
 Home Page:
-![Home page of a System]()
+![Home page of a System](https://github.com/dipbazz/Devanagari-numerals-recognition-using-KNN-and-integration-with-django/blob/master/devanagariDigitsOCR/test_image/UI/home%20page.JPG "Home Page")
 
-Home Page:
-![Home page of a system](https://github.com/dipbazz/Devnagari-numerals-recognition-using-KNN-and-integrated-to-django/tree/master/devanagariDigitsOCR/test_image/img.jpg "Logo Title Text 1")
+Output of a system:
+![Home page of a system](https://github.com/dipbazz/Devanagari-numerals-recognition-using-KNN-and-integration-with-django/blob/master/devanagariDigitsOCR/test_image/UI/browser_test.jpg "Output of a system for a given input")
+
+Output of a system:
+![Home page of a system](https://github.com/dipbazz/Devanagari-numerals-recognition-using-KNN-and-integration-with-django/blob/master/devanagariDigitsOCR/test_image/UI/browser_test1.jpg "Output of a system for a given input")
+
 
 
 ## References
