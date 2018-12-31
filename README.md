@@ -26,17 +26,6 @@ I have uploaded image for testing purpose in test_image folder in home directory
 11. six==1.11.0
 12. sklearn==0.0
 
-## UI
-Home Page:
-![Home page of a System](https://gitlab.com/dipbazz/devnagari-digits-recognitation/tree/master/devanagariDigitsOCR/test_image/UI/home%20page.JPG "Home Page")
-
-Output of a system:
-![Home page of a system](https://gitlab.com/dipbazz/devnagari-digits-recognitation/tree/master/devanagariDigitsOCR/test_image/UI/browser_test.jpg "Output of a system for a given input")
-
-Output of a system:
-![Home page of a system](https://gitlab.com/dipbazz/devnagari-digits-recognitation/tree/master/devanagariDigitsOCR/test_image/UI/browser_test1.jpg "Output of a system for a given input")
-
-
 
 ## References
 1. [Ashok pant/nhcr](https://github.com/ashokpant/nhcr)
