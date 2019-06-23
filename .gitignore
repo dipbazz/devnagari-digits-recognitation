@@ -104,8 +104,9 @@ devenv/
 # mypy
 .mypy_cache/
 
-#pycharm IDE
+# IDE project settings
 .idea
+.vscode
 
 # media folder
 media/
